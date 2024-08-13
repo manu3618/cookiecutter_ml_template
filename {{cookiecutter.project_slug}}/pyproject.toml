@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "{{cookiecutter.project_slug}}"
+dependencies = [
+    "jupyter",
+    "notebook",
+    "pandas",
+    "scikit-learn",
+]
