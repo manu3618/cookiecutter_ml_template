@@ -4,5 +4,5 @@ includes:
 
  - dataset split into train, test, validation
  - model fitting
- - hperparatmeters tuning
+ - hyperparatmeters tuning
 """
